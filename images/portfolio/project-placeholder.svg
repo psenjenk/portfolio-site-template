@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="600" fill="#E9ECEF"/>
+    <rect x="200" y="150" width="400" height="200" rx="8" fill="#ADB5BD"/>
+    <path d="M300 250L350 300L400 200L500 350" stroke="#6C757D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="450" cy="200" r="20" fill="#6C757D"/>
+    <text x="400" y="450" text-anchor="middle" font-family="Arial" font-size="16" fill="#6C757D">
+        Add Project Screenshot (800x600)
+    </text>
+</svg> 
